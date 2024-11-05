@@ -1,5 +1,5 @@
 name: Installing Python
-# no op
+
 on: [push]
 
 jobs:
